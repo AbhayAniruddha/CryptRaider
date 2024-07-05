@@ -55,7 +55,7 @@ To play Crypt Raider:
 - **Space**: Jump
 
 ## Screenshots
-![In-Game Screenshots](https://drive.google.com/file/d/1tWklA426EXpdyZfnRRDTQdRsHMsc8rTE/view?usp=drive_link)
+![In-Game Screenshots](https://drive.google.com/uc?export=view&id=1tWklA426EXpdyZfnRRDTQdRsHMsc8rTE)
 
 
 ## Contributing
