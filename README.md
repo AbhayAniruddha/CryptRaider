@@ -54,8 +54,7 @@ To play Crypt Raider:
 - **Mouse Click**: Interact with objects
 - **Space**: Jump
 
-## Screenshots
-![In-Game Screenshots](https://drive.google.com/uc?export=view&id=1tWklA426EXpdyZfnRRDTQdRsHMsc8rTE)
+
 
 
 ## Contributing
