@@ -55,9 +55,8 @@ To play Crypt Raider:
 - **Space**: Jump
 
 ## Screenshots
-![Main Menu](url-to-screenshot1)
-![In-Game Screenshot](url-to-screenshot2)
-![Puzzle Solving](url-to-screenshot3)
+![In-Game Screenshots](https://drive.google.com/drive/folders/1vCuEhBUT9_61H7gG-gDZv65h9CmvmSfh?usp=sharing)
+
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
