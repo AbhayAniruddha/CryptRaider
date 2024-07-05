@@ -1,0 +1,30 @@
+*.obj
+*.pdb
+*.exe
+*.log
+*.suo
+*.sdf
+*.user
+*.userprefs
+*.db
+*.opendb
+
+# Ignore Unreal File Types
+*.dll
+*.lib
+*.app
+*.dSYM
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.asset
+*.pidb
+*.unityproj
+*.mat
+
+# Ignore Directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
