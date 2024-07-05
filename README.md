@@ -71,4 +71,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgements
 - [Unreal Engine](https://www.unrealengine.com/) - Game engine used for development
 - [Abhay Aniruddha](https://github.com/AbhayAniruddha) - Developer
-- [Additional Resources(UE C++ Developer Course)]([https://example.com](https://www.udemy.com/course/unrealcourse)) - Inspiration and resources used
+- [Additional Resources(UE5 C++ Developer Course)](https://www.udemy.com/course/unrealcourse) - Inspiration and resources used
