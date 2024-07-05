@@ -7,7 +7,6 @@ Crypt Raider is an exciting first-person perspective (FPP) game where players mu
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
